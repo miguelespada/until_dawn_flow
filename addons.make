@@ -1,0 +1,5 @@
+ofxCv
+ofxHapPlayer
+ofxOpenCv
+ofxFlowTools
+ofxGui
